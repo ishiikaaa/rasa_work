@@ -1,0 +1,14 @@
+
+
+- story: title_path
+  steps:
+  - intent: greet
+  - intent: title
+  - action: utter_title
+
+
+- story: paragraphs_path
+  steps:
+  - intent: greet
+  - intent: paragraphs
+  - action: utter_paragraphs

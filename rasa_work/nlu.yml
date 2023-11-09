@@ -1,0 +1,91 @@
+nlu:
+- examples: "|  - Transform your business with our specialized technology and solutions!\_"
+  intent: Home - Netlink
+- examples: "|  - Digital transformation powered with the latest up-trending technology\
+    \ solutions to deliver faster enterprise applications"
+  intent: Home - Netlink
+- examples: "|  - A unique self-service business intelligence platform with multi-dimensional\
+    \ analytics that too without any coding"
+  intent: Home - Netlink
+- examples: "|  - Along with the traditional POD model, we also offer state-of-the-art\
+    \ IT engagement model that delivers role/skill-based IT services at predictable\
+    \ costs"
+  intent: Home - Netlink
+- examples: "|  - Easy to use ERP solutions in the areas of Manufacturing, Finance,\
+    \ Sales, CRM, Inventory, Reporting, and many more to manage your unique business\
+    \ efficiently"
+  intent: Home - Netlink
+- examples: "|  - Specialized IoT and RPA technology services to automate manual\
+    \ processes for organizations of any size across any industry"
+  intent: Home - Netlink
+- examples: "|  - Empowering developers to become productive experts in just a few\
+    \ weeks. From tech skills to certifications, we complete their journey"
+  intent: Home - Netlink
+- examples: "|  - Eliminate human dependencies and increase productivity with our\
+    \ Robotics Process Automation (RPA), irrespective of the size of your organization"
+  intent: Home - Netlink
+- examples: "|  - Our happy employees create delighted customers. With perfect work-fun\
+    \ balance, they find Netlink as perfect place to work"
+  intent: Home - Netlink
+- examples: "|  - At Netlink, our technology experts have been delivering customer-centric\
+    \ solutions for over two decades \u201Cthat are usable and simplified\u201D. With\
+    \ technology at core and customers in our heart, we believe in innovating, transforming,\
+    \ accelerating, and redefining businesses"
+  intent: Home - Netlink
+- examples: "|  - Netlink with its global footprints is one of the fastest-growing\
+    \ companies in its domain"
+  intent: Home - Netlink
+- examples: "|  - Its partnerships with companies like Oracle, SAP, Microsoft, Vertica,\
+    \ etc, and its expertise in Industry 4.0 solutions, addresses both the current\
+    \ and future IT needs of its customers"
+  intent: Home - Netlink
+- examples: "|  - Netlink ensures the utmost quality in its processes and solutions\
+    \ offered. And with CMMI, SOC2, ISO, CISA, SSAE, ITIL, and several other certifications,\
+    \ it puts compliance at the center stage in all its activities"
+  intent: Home - Netlink
+- examples: "|  - We help organizations to attain a competitive edge using state-of-the-art\
+    \ technology solutions"
+  intent: Home - Netlink
+- examples: "|  - We work closely with your team to better understand your business"
+  intent: Home - Netlink
+- examples: "|  - We strive to be a long-term trusted partner with a co-investment\
+    \ mindset"
+  intent: Home - Netlink
+- examples: "|  - Agility and adaptability are the cornerstones of our product"
+  intent: Home - Netlink
+- examples: "|  - We continually look for opportunities to accelerate growth and\
+    \ overall business efficiency so you\u2019re always ahead of the curve"
+  intent: Home - Netlink
+- examples: "|  - We nurture an environment that encourages ambition, creativity,\
+    \ and recognition to develop and retain the best workforce for our business"
+  intent: Home - Netlink
+- examples: "|  - With the trust and patronage of hundreds of multinationals, corporates,\
+    \ government and private organizations worldwide, Netlink has emerged as the partner\
+    \ of their choice"
+  intent: Home - Netlink
+- examples: "|  - Contact us to transform your business with the power of technology\
+    \ and expertise of Netlink"
+  intent: Home - Netlink
+- examples: "|  - Privacy Policy"
+  intent: Home - Netlink
+- examples: "|  - Useful Links"
+  intent: Home - Netlink
+- examples: "|  - Platform & Products"
+  intent: Home - Netlink
+- examples: "|  - Contact"
+  intent: Home - Netlink
+- examples: "|  - Global HQ:999 Tech Row | Madison Heights | MI 48071Phone: +1 248\
+    \ (204)-8800"
+  intent: Home - Netlink
+- examples: "|  - Global Operations Center:D-6 Industrial Area, Mandideep, Bhopal,\
+    \ Madhya Pradesh 462046Phone: +91-77730-03441 Email: corporate.netlink@netlink.com"
+  intent: Home - Netlink
+- examples: "|  - INDIA"
+  intent: Home - Netlink
+- examples: "|  - UNITED STATES"
+  intent: Home - Netlink
+- examples: "|  - CANADA"
+  intent: Home - Netlink
+- examples: "|  - Copyright \xA9 2023 Netlink"
+  intent: Home - Netlink
+version: '3.1'
